@@ -1,7 +1,8 @@
 <!--
---- Readme.md Snippet without images Start ---
+&lt;--- Readme.md Snippet without images Start ---&gt;
 ## Tech Stack
 samdanae/nx is built on the following main stack:
+
 - [CircleCI](https://circleci.com/) – Continuous Integration
 - [Jest](http://facebook.github.io/jest/) – Javascript Testing Framework
 - [Jasmine](http://jasmine.github.io/) – Javascript Testing Framework
@@ -43,11 +44,13 @@ samdanae/nx is built on the following main stack:
 - [GitHub Actions](https://github.com/features/actions) – Continuous Integration
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet without images End ---
 
---- Readme.md Snippet with images Start ---
+&lt;--- Readme.md Snippet without images End ---&gt;
+
+&lt;--- Readme.md Snippet with images Start ---&gt;
 ## Tech Stack
 samdanae/nx is built on the following main stack:
+
 - <img width='25' height='25' src='https://img.stackshare.io/service/190/CvqrSSFs_400x400.jpg' alt='CircleCI'/> [CircleCI](https://circleci.com/) – Continuous Integration
 - <img width='25' height='25' src='https://img.stackshare.io/service/830/jest.png' alt='Jest'/> [Jest](http://facebook.github.io/jest/) – Javascript Testing Framework
 - <img width='25' height='25' src='https://img.stackshare.io/service/831/7c0b595409af531b9cdeb07f8c513e8b.png' alt='Jasmine'/> [Jasmine](http://jasmine.github.io/) – Javascript Testing Framework
@@ -89,14 +92,15 @@ samdanae/nx is built on the following main stack:
 - <img width='25' height='25' src='https://img.stackshare.io/service/11563/actions.png' alt='GitHub Actions'/> [GitHub Actions](https://github.com/features/actions) – Continuous Integration
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet with images End ---
+
+&lt;--- Readme.md Snippet with images End ---&gt;
 -->
 <div align="center">
 
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [samdanae/nx](https://github.com/samdanae/nx)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|205<br/>Tools used|11/10/23 <br/>Report generated|
+|207<br/>Tools used|01/05/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -508,9 +512,9 @@ Full tech stack [here](/techstack.md)
 </table>
 
 
-## <img src='https://img.stackshare.io/group.svg' /> Open source packages (158)</h2>
+## <img src='https://img.stackshare.io/group.svg' /> Open source packages (160)</h2>
 
-## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (158)
+## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (160)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
@@ -568,6 +572,7 @@ Full tech stack [here](/techstack.md)
 |[babel-plugin-macros](https://www.npmjs.com/babel-plugin-macros)|v2.8.0|08/19/21|Jack Hsu |MIT|N/A|
 |[browserslist](https://www.npmjs.com/browserslist)|v4.14.2|05/31/21|Jack Hsu |MIT|[CVE-2021-23364](https://github.com/advisories/GHSA-w8qv-6jwh-64r5) (Moderate)|
 |[caniuse-lite](https://www.npmjs.com/caniuse-lite)|v1.0.30001199|08/19/21|Jack Hsu |CC-BY-4.0|N/A|
+|[chalk](https://www.npmjs.com/chalk)|v2.4.2|11/30/20|Jason Jean |MIT|N/A|
 |[chokidar](https://www.npmjs.com/chokidar)|v3.5.1|05/03/21|Phillip Barta |MIT|N/A|
 |[circular-dependency-plugin](https://www.npmjs.com/circular-dependency-plugin)|v5.2.0|08/25/21|Chau Tran |ISC|N/A|
 |[classnames](https://www.npmjs.com/classnames)|v2.2.6|04/30/21|Benjamin Cabanes |MIT|N/A|
@@ -598,6 +603,7 @@ Full tech stack [here](/techstack.md)
 |[gray-matter](https://www.npmjs.com/gray-matter)|v4.0.2|03/27/21|Jack Hsu |MIT|N/A|
 |[html-webpack-plugin](https://www.npmjs.com/html-webpack-plugin)|v3.2.0|08/25/21|Chau Tran |MIT|N/A|
 |[http-server](https://www.npmjs.com/http-server)|v0.12.3|08/25/21|Chau Tran |MIT|N/A|
+|[husky](https://www.npmjs.com/husky)|v6.0.0|04/26/21|Phillip Barta |MIT|N/A|
 |[identity-obj-proxy](https://www.npmjs.com/identity-obj-proxy)|v3.0.0|08/24/21|Brandon |MIT|N/A|
 |[ignore](https://www.npmjs.com/ignore)|v3.3.10|12/07/18|Jason Jean |MIT|N/A|
 |[is-ci](https://www.npmjs.com/is-ci)|v3.0.0|04/26/21|Phillip Barta |MIT|N/A|
@@ -676,4 +682,4 @@ Full tech stack [here](/techstack.md)
 <br/>
 <div align='center'>
 
-Generated via [Stack File](https://github.com/apps/stack-file)
+Generated via [Stack File](https://github.com/marketplace/stack-file)
